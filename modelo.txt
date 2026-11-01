@@ -1,1 +1,1 @@
-Modelo de datos TEPEC
+Modelo de datos del sistema
